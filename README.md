@@ -17,7 +17,7 @@ The is a C# Console-Mode Project.  Open with  Visual Studio 2022 and above to co
 ## References
 
 1. "Treap:  A Randomized Binary Search Tree", Dec 15, 2022, https://www.geeksforgeeks.org/treap-a-randomized-binary-search-tree/
-2. "Treap: Search, Insert and Delete", Nov 27, 2023, https://www.geeksforgeeks.org/implementation-of-search-insert-and-delete-in-treap/
+2. "Implementation of Search, Insert and Delete in Treap", Nov 27, 2023, https://www.geeksforgeeks.org/implementation-of-search-insert-and-delete-in-treap/
 
 
 
