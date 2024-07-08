@@ -8,8 +8,7 @@ The is a C# Console-Mode Project.  Open with  Visual Studio 2022 and above to co
 
 ## Description:
 
-  A Treap is a semi-balanced binary search tree (BST).  The Tree class contain methodes to Insert, Delete and Print keys.  Most operations (Insert, Delete and Search) are logarithmic in time, O(log N), except for print, which is linear time, O(N).
-  The Tree is Semi-Height-Balanced to a height of 1.4 * Log(N).  On average, two rotations are possible for each insert and delete.
+  A Treap is a semi-balanced binary search tree (BST).  The Tree class contains methods to Insert, Delete and Print keys.  Most operations (Insert, Delete and Search) are logarithmic in time, O(log N), except for print, which is linear time, O(N).  The Tree is Semi-Height-Balanced to a height of 1.4 * Log(N).  On average, two rotations are possible for each insert and delete.
 
 ## Unit Tests
 
